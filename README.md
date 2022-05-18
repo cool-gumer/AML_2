@@ -1,9 +1,8 @@
 # AML_2
 ├── README.md  # documentation 
-├── cyber_security #solution of the second task
-│   └──cyber_security_anomaly_detection.ipynb # solution notebook
-├── finance # solution of 1 task # solution of the first task
-│   └── anomaly_detection_in_finance.ipynb.ipynb #solution notebook
+├── CS2.ipynb #solution of the second task
+├── finance  # solution of the first 
+│__  A2_ML.ipynb #solution notebook - solution of 1 task
 └── requirements.txt # used libraries
 
 
