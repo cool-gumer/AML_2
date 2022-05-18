@@ -2,7 +2,7 @@
 ├── README.md  # documentation 
 ├── CS2.ipynb #solution of the second task
 ├── finance  # solution of the first 
-│__  A2_ML.ipynb #solution notebook - solution of 1 task
+│__  A2_ML(1).ipynb #solution notebook - solution of 1 task
 └── requirements.txt # used libraries
 
 
